@@ -5,4 +5,11 @@ p {
 
 a {
     color: black;
+    
 }
+
+ body {
+   background-color: pink;
+  color: white;
+  font-family: monospace;
+  }
